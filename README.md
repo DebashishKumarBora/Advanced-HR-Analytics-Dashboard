@@ -5,7 +5,9 @@ Welcome to my Advanced HR analytics dashboard. This Power BI dashboard offers co
 
 **Page 1: HR Insights**
 Total Employees: Overview of the total number of employees.
+
 Gender Distribution: Percentage of male and female employees.
+
 Promotion Status: Employees due for promotion vs. those not due.
 Service Year: Distribution of employees based on years of service.
 Job Satisfaction: Insights into employee job satisfaction levels.
